@@ -1,4 +1,4 @@
-![logo](https://wallpaperaccess.com/full/4635743.jpg)
+![logo](https://jbsoftware.ca/wp-content/uploads/web-design.jpg)
 <h1 align="center">Hi 👋, I'm Santoshi Nautiyal</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <p align="center"><img align="center" alt="coding" width="450" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"></p>
