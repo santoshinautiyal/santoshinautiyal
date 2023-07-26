@@ -1,8 +1,8 @@
-![logo](https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png)
+![logo](https://wallpaperaccess.com/full/4635743.jpg)
 <h1 align="center">Hi 👋, I'm Santoshi Nautiyal</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right" alt="coding" width="340" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshinautiyal" alt="santoshinautiyal" /></a> </p>
+<p align="center"><img align="center" alt="coding" width="450" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=santoshinautiyal" alt="santoshinautiyal" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshinautiyal&label=Profile%20views&color=0e75b6&style=flat" alt="santoshinautiyal" /> </p>
 
